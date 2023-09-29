@@ -5,9 +5,6 @@
 I'm a Computer Scientist and Master's research student with a goal to revolutionalise the world of Artificial Intelligence. To bring my vision of AI to the mainstream, I set out on the journey to pursue further studies and become a didicated student of the field so that I can learn and master the tools and understanding required to make a lasting impact and have my work benefit both the academic and professional communities. My research areas and career focus align to Generative AI, Blockchain, and Cryptography where I use code as a scientific playground to creatively implement my ideas through experiments and come up with innovative ways to acheive greater innovation. 
 
 
-
-My career focus alignes to Generative AI and Cryptography   with a passionate for AI and Cryptography about learning programming techniques and styles. All code is built from the ground up and I creatively implement my ideas based on new technologies and ways of thinking to achieve greater innovation.
-
 ---
 
 ### 🧰 Languages and Tools
