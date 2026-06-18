@@ -15,7 +15,6 @@
 - Trustworthy and Explainable AI
 - Ethical AI practices and frameworks
 - Software Engineering & Cloud Technologies
-  <br/><br/>
 
 # 💻 Tech Stack
 
