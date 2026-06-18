@@ -40,7 +40,7 @@
 
 My research focuses on improving the security and integrity of Generative AI systems through cryptographic techniques and supply-chain validation. I have presented and published work at international conferences, with ongoing research exploring secure LLM ecosystems and emerging agentic AI paradigms.
 
-# 🚀 What You'll Find Here
+<details><summary><h1>🚀 What You'll Find Here </h1></summary>
 
 ### This GitHub showcases projects spanning:
 
@@ -51,9 +51,3 @@ My research focuses on improving the security and integrity of Generative AI sys
 - Explorations of new frameworks and emerging technologies
 
 I'm always interested in learning, collaborating, and applying research to solve practical engineering problems.
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shridharsingh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=shridharsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
